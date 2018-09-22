@@ -1,0 +1,4232 @@
+[
+  {
+    "location": {
+      "longitude": 2.250475,
+      "latitude": 52.50044,
+      "altitude": 0
+    },
+    "weather": [
+      {
+        "time": "2018-09-22T03:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1016.6,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-22T04:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1017.1,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-22T05:00:00Z",
+        "tempC": 12.8,
+        "pressureHPA": 1017.3,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-22T06:00:00Z",
+        "tempC": 12.6,
+        "pressureHPA": 1017.4,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-22T07:00:00Z",
+        "tempC": 12.5,
+        "pressureHPA": 1017.8,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-22T08:00:00Z",
+        "tempC": 12.4,
+        "pressureHPA": 1018,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-22T09:00:00Z",
+        "tempC": 12.6,
+        "pressureHPA": 1018.4,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T10:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1018.5,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T11:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1018.4,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T12:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1018.2,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-22T13:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1017.8,
+        "humidityPER": 56
+      },
+      {
+        "time": "2018-09-22T14:00:00Z",
+        "tempC": 15.2,
+        "pressureHPA": 1017.7,
+        "humidityPER": 56
+      },
+      {
+        "time": "2018-09-22T15:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1017.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T16:00:00Z",
+        "tempC": 15.2,
+        "pressureHPA": 1017,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T17:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1016.7,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T18:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1016.6,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T19:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1016.3,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T20:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1015.9,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T21:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1015.5,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T22:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1015,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T23:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1014.3,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T00:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1013.6,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T01:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.8,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T02:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012.3,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T03:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012,
+        "humidityPER": 79
+      },
+      {
+        "time": "2018-09-23T04:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1011.9,
+        "humidityPER": 79
+      },
+      {
+        "time": "2018-09-23T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1011.9,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T06:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012.3,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-23T07:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.5,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T08:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T09:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1013.3,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-23T10:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1013.4,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-23T11:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1013.6,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-23T12:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1014.1,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T13:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1014.6,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T14:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1015,
+        "humidityPER": 83
+      },
+      {
+        "time": "2018-09-23T15:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1016.4,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T16:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1017.6,
+        "humidityPER": 77
+      },
+      {
+        "time": "2018-09-23T17:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1019.4,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-23T18:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1021,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-23T21:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1025.8,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T22:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1026.9,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-23T23:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1027.9,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-24T00:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1028.9,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-24T03:00:00Z",
+        "tempC": 12.6,
+        "pressureHPA": 1030.6,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-24T06:00:00Z",
+        "tempC": 12.7,
+        "pressureHPA": 1032.3,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-24T09:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1034.8,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T12:00:00Z",
+        "tempC": 12.5,
+        "pressureHPA": 1036.6,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-24T18:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1036.9,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-25T00:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1038.3,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-25T06:00:00Z",
+        "tempC": 12.4,
+        "pressureHPA": 1038.5,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-25T12:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1039.7,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-25T18:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1037.3,
+        "humidityPER": 60
+      },
+      {
+        "time": "2018-09-26T00:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1036.6,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-26T06:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1035.4,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-26T12:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1034.7,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-26T18:00:00Z",
+        "tempC": 16.4,
+        "pressureHPA": 1031.8,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-27T00:00:00Z",
+        "tempC": 15.4,
+        "pressureHPA": 1030.5,
+        "humidityPER": 77
+      },
+      {
+        "time": "2018-09-27T06:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1027.8,
+        "humidityPER": 81
+      },
+      {
+        "time": "2018-09-27T12:00:00Z",
+        "tempC": 15.7,
+        "pressureHPA": 1026.3,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-27T18:00:00Z",
+        "tempC": 16.7,
+        "pressureHPA": 1025.3,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-28T00:00:00Z",
+        "tempC": 15,
+        "pressureHPA": 1027.2,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-28T12:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1030.3,
+        "humidityPER": 55
+      },
+      {
+        "time": "2018-09-29T00:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1029.7,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-29T12:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1029.6,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-30T00:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1027.1,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-30T12:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1028,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-10-01T00:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1031.1,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-10-01T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1033.3,
+        "humidityPER": 69
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 2.330675,
+      "latitude": 52.509984,
+      "altitude": 0
+    },
+    "weather": [
+      {
+        "time": "2018-09-22T03:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1016.5,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-22T04:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1017,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-22T05:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1017.3,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-22T06:00:00Z",
+        "tempC": 12.8,
+        "pressureHPA": 1017.3,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-22T07:00:00Z",
+        "tempC": 12.7,
+        "pressureHPA": 1017.7,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-22T08:00:00Z",
+        "tempC": 12.6,
+        "pressureHPA": 1018,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-22T09:00:00Z",
+        "tempC": 12.8,
+        "pressureHPA": 1018.3,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T10:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1018.5,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T11:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1018.4,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T12:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1018.2,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-22T13:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1017.9,
+        "humidityPER": 57
+      },
+      {
+        "time": "2018-09-22T14:00:00Z",
+        "tempC": 15.2,
+        "pressureHPA": 1017.7,
+        "humidityPER": 56
+      },
+      {
+        "time": "2018-09-22T15:00:00Z",
+        "tempC": 15.4,
+        "pressureHPA": 1017.3,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-22T16:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1017,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T17:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1016.7,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T18:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1016.6,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T19:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1016.3,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T20:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1015.9,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T21:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1015.5,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T22:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1015,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T23:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1014.3,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T00:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1013.6,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T01:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.9,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T02:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.3,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T03:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T04:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1011.9,
+        "humidityPER": 79
+      },
+      {
+        "time": "2018-09-23T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1011.9,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T06:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012.2,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-23T07:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.5,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T08:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1012.9,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T09:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.2,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-23T10:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1013.3,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T11:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.5,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-23T12:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1014,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T13:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1014.4,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T14:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1014.9,
+        "humidityPER": 82
+      },
+      {
+        "time": "2018-09-23T15:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1016.1,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T16:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1017.5,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T17:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1019.3,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-23T18:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1020.9,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-23T21:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1025.7,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T22:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1026.8,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-23T23:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1027.8,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-24T00:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1028.8,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-24T03:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1030.5,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-24T06:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1032.2,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-24T09:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1034.6,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T12:00:00Z",
+        "tempC": 12.6,
+        "pressureHPA": 1036.5,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-24T18:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1036.9,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-25T00:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1038.2,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-25T06:00:00Z",
+        "tempC": 12.7,
+        "pressureHPA": 1038.5,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-25T12:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1039.7,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-25T18:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1037.3,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-26T00:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1036.5,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-26T06:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1035.3,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-26T12:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1034.7,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-26T18:00:00Z",
+        "tempC": 16.4,
+        "pressureHPA": 1031.9,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-27T00:00:00Z",
+        "tempC": 15.6,
+        "pressureHPA": 1030.5,
+        "humidityPER": 77
+      },
+      {
+        "time": "2018-09-27T06:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1027.8,
+        "humidityPER": 81
+      },
+      {
+        "time": "2018-09-27T12:00:00Z",
+        "tempC": 15.6,
+        "pressureHPA": 1026.3,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-27T18:00:00Z",
+        "tempC": 16.5,
+        "pressureHPA": 1025.3,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-28T00:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1027.2,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-28T12:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1030.2,
+        "humidityPER": 55
+      },
+      {
+        "time": "2018-09-29T00:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1029.6,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-29T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1029.5,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-30T00:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1027.1,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-30T12:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1028,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-10-01T00:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1031,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-10-01T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1033.3,
+        "humidityPER": 70
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 2.410912,
+      "latitude": 52.519468,
+      "altitude": 0
+    },
+    "weather": [
+      {
+        "time": "2018-09-22T03:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1016.4,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T04:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1016.9,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-22T05:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1017.2,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-22T06:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1017.3,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-22T07:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1017.7,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-22T08:00:00Z",
+        "tempC": 12.8,
+        "pressureHPA": 1017.9,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-22T09:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1018.3,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T10:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1018.5,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T11:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1018.4,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T12:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1018.2,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-22T13:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1017.9,
+        "humidityPER": 57
+      },
+      {
+        "time": "2018-09-22T14:00:00Z",
+        "tempC": 15.1,
+        "pressureHPA": 1017.8,
+        "humidityPER": 56
+      },
+      {
+        "time": "2018-09-22T15:00:00Z",
+        "tempC": 15.4,
+        "pressureHPA": 1017.3,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-22T16:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1017,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T17:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1016.7,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T18:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1016.6,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T19:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1016.4,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-22T20:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1015.9,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T21:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1015.5,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T22:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1015,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T23:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1014.3,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T00:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1013.6,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T01:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.9,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T02:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.3,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T03:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-23T04:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1011.8,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1011.9,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T06:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012.2,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T07:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.5,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T08:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1012.9,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T09:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.2,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-23T10:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1013.3,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T11:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.4,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T12:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1013.9,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T13:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1014.3,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T14:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1014.8,
+        "humidityPER": 81
+      },
+      {
+        "time": "2018-09-23T15:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1016,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T16:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1017.4,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T17:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1019.2,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-23T18:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1020.8,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-23T21:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1025.5,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T22:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1026.7,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-23T23:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1027.7,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-24T00:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1028.7,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-24T03:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1030.4,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-24T06:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1032.1,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-24T09:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1034.5,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T12:00:00Z",
+        "tempC": 12.7,
+        "pressureHPA": 1036.4,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-24T18:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1036.8,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-25T00:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1038.2,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-25T06:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1038.4,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-25T12:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1039.6,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-25T18:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1037.3,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T00:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1036.5,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-26T06:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1035.3,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-26T12:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1034.7,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-26T18:00:00Z",
+        "tempC": 16.4,
+        "pressureHPA": 1031.9,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-27T00:00:00Z",
+        "tempC": 15.8,
+        "pressureHPA": 1030.4,
+        "humidityPER": 77
+      },
+      {
+        "time": "2018-09-27T06:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1027.8,
+        "humidityPER": 81
+      },
+      {
+        "time": "2018-09-27T12:00:00Z",
+        "tempC": 15.5,
+        "pressureHPA": 1026.3,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-27T18:00:00Z",
+        "tempC": 16.5,
+        "pressureHPA": 1025.3,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-28T00:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1027.1,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-28T12:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1030.2,
+        "humidityPER": 54
+      },
+      {
+        "time": "2018-09-29T00:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1029.5,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-29T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1029.5,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-30T00:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1027.1,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-30T12:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1027.9,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-10-01T00:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1031,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-10-01T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1033.2,
+        "humidityPER": 71
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 2.491185,
+      "latitude": 52.528893,
+      "altitude": 0
+    },
+    "weather": [
+      {
+        "time": "2018-09-22T03:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1016.4,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T04:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1016.8,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T05:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1017.1,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-22T06:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1017.2,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-22T07:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1017.6,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-22T08:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1017.9,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-22T09:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1018.2,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T10:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1018.5,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T11:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1018.4,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T12:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1018.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T13:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1017.9,
+        "humidityPER": 58
+      },
+      {
+        "time": "2018-09-22T14:00:00Z",
+        "tempC": 15.1,
+        "pressureHPA": 1017.8,
+        "humidityPER": 56
+      },
+      {
+        "time": "2018-09-22T15:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1017.3,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-22T16:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1017,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T17:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1016.7,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T18:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1016.6,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T19:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1016.4,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-22T20:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1015.9,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T21:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1015.6,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T22:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1015.1,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T23:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1014.4,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T00:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1013.6,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-23T01:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.9,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T02:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.3,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T03:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-23T04:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1011.8,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1011.9,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T06:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012.2,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T07:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.4,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T08:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1012.8,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T09:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.1,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-23T10:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1013.2,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T11:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.4,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-23T12:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1013.9,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T13:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1014.2,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T14:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1014.7,
+        "humidityPER": 80
+      },
+      {
+        "time": "2018-09-23T15:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1015.8,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T16:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1017.3,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T17:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1019.1,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-23T18:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1020.7,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-23T21:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1025.4,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T22:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1026.6,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-23T23:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1027.6,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-24T00:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1028.6,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-24T03:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1030.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-24T06:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1032,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-24T09:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1034.4,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-24T12:00:00Z",
+        "tempC": 12.8,
+        "pressureHPA": 1036.3,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-24T18:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1036.8,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-25T00:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1038.1,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-25T06:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1038.4,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-25T12:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1039.6,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-25T18:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1037.3,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T00:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1036.5,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T06:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1035.2,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-26T12:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1034.7,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-26T18:00:00Z",
+        "tempC": 16.3,
+        "pressureHPA": 1031.9,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-27T00:00:00Z",
+        "tempC": 15.9,
+        "pressureHPA": 1030.4,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-27T06:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1027.8,
+        "humidityPER": 81
+      },
+      {
+        "time": "2018-09-27T12:00:00Z",
+        "tempC": 15.5,
+        "pressureHPA": 1026.3,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-27T18:00:00Z",
+        "tempC": 16.5,
+        "pressureHPA": 1025.2,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-28T00:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1027,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-28T12:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1030.1,
+        "humidityPER": 54
+      },
+      {
+        "time": "2018-09-29T00:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1029.5,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-29T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1029.5,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-30T00:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1027.1,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-30T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1027.9,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-10-01T00:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1030.9,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-10-01T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1033.2,
+        "humidityPER": 71
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 2.571493,
+      "latitude": 52.538258,
+      "altitude": 0
+    },
+    "weather": [
+      {
+        "time": "2018-09-22T03:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1016.3,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T04:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1016.8,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T05:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1017.1,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-22T06:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1017.2,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-22T07:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1017.6,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-22T08:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1017.8,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T09:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1018.2,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T10:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1018.4,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T11:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1018.4,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T12:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1018.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T13:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1017.9,
+        "humidityPER": 58
+      },
+      {
+        "time": "2018-09-22T14:00:00Z",
+        "tempC": 15,
+        "pressureHPA": 1017.8,
+        "humidityPER": 56
+      },
+      {
+        "time": "2018-09-22T15:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1017.3,
+        "humidityPER": 60
+      },
+      {
+        "time": "2018-09-22T16:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1016.9,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T17:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1016.7,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T18:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1016.6,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T19:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1016.4,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-22T20:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1016,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-22T21:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1015.6,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T22:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1015.1,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T23:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1014.4,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T00:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1013.7,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T01:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.9,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T02:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.3,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T03:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-23T04:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1011.8,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1011.9,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T06:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012.1,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T07:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.4,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T08:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1012.8,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T09:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.1,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T10:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1013.2,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T11:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.3,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T12:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1013.8,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T13:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1014.1,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T14:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1014.6,
+        "humidityPER": 80
+      },
+      {
+        "time": "2018-09-23T15:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1015.6,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T16:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1017.1,
+        "humidityPER": 77
+      },
+      {
+        "time": "2018-09-23T17:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1018.9,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-23T18:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1020.5,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-23T21:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1025.3,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T22:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1026.5,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T23:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1027.5,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-24T00:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1028.5,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-24T03:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1030.2,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-24T06:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1031.9,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T09:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1034.4,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-24T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1036.2,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T18:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1036.7,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-25T00:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1038,
+        "humidityPER": 60
+      },
+      {
+        "time": "2018-09-25T06:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1038.4,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-25T12:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1039.6,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-25T18:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1037.3,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T00:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1036.5,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T06:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1035.2,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-26T12:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1034.7,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-26T18:00:00Z",
+        "tempC": 16.3,
+        "pressureHPA": 1031.9,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-27T00:00:00Z",
+        "tempC": 16,
+        "pressureHPA": 1030.4,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-27T06:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1027.8,
+        "humidityPER": 81
+      },
+      {
+        "time": "2018-09-27T12:00:00Z",
+        "tempC": 15.4,
+        "pressureHPA": 1026.3,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-27T18:00:00Z",
+        "tempC": 16.5,
+        "pressureHPA": 1025.2,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-28T00:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1026.9,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-28T12:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1030,
+        "humidityPER": 55
+      },
+      {
+        "time": "2018-09-29T00:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1029.4,
+        "humidityPER": 60
+      },
+      {
+        "time": "2018-09-29T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1029.5,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-30T00:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1027.1,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-30T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1027.9,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-10-01T00:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1030.8,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-10-01T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1033.1,
+        "humidityPER": 71
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 2.651838,
+      "latitude": 52.547564,
+      "altitude": 0
+    },
+    "weather": [
+      {
+        "time": "2018-09-22T03:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1016.3,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T04:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1016.7,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1017,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T06:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1017.1,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T07:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1017.5,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T08:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1017.8,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T09:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1018.2,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T10:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1018.4,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T11:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1018.4,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T12:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1018.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T13:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1017.9,
+        "humidityPER": 59
+      },
+      {
+        "time": "2018-09-22T14:00:00Z",
+        "tempC": 15,
+        "pressureHPA": 1017.8,
+        "humidityPER": 57
+      },
+      {
+        "time": "2018-09-22T15:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1017.3,
+        "humidityPER": 60
+      },
+      {
+        "time": "2018-09-22T16:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1016.9,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T17:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1016.7,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T18:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1016.6,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T19:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1016.4,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-22T20:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1016,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T21:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1015.6,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T22:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1015.1,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T23:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1014.4,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T00:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013.7,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T01:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.9,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T02:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.3,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T03:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T04:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1011.8,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1011.9,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T06:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012.1,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-23T07:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.4,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T08:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1012.7,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-23T09:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.1,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T10:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1013.2,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T11:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.2,
+        "humidityPER": 79
+      },
+      {
+        "time": "2018-09-23T12:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1013.7,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T13:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1014,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T14:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1014.5,
+        "humidityPER": 81
+      },
+      {
+        "time": "2018-09-23T15:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1015.5,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-23T16:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1017,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-23T17:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1018.8,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-23T18:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1020.4,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-23T21:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1025.2,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T22:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1026.4,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T23:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1027.4,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-24T00:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1028.4,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T03:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1030.1,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-24T06:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1031.8,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T09:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1034.3,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-24T12:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1036.1,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-24T18:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1036.6,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-25T00:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1038,
+        "humidityPER": 60
+      },
+      {
+        "time": "2018-09-25T06:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1038.3,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-25T12:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1039.5,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-25T18:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1037.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-26T00:00:00Z",
+        "tempC": 15,
+        "pressureHPA": 1036.5,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T06:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1035.2,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-26T12:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1034.8,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-26T18:00:00Z",
+        "tempC": 16.3,
+        "pressureHPA": 1032,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-27T00:00:00Z",
+        "tempC": 16.1,
+        "pressureHPA": 1030.4,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-27T06:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1027.8,
+        "humidityPER": 81
+      },
+      {
+        "time": "2018-09-27T12:00:00Z",
+        "tempC": 15.4,
+        "pressureHPA": 1026.3,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-27T18:00:00Z",
+        "tempC": 16.5,
+        "pressureHPA": 1025.2,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-28T00:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1026.9,
+        "humidityPER": 77
+      },
+      {
+        "time": "2018-09-28T12:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1030,
+        "humidityPER": 55
+      },
+      {
+        "time": "2018-09-29T00:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1029.4,
+        "humidityPER": 59
+      },
+      {
+        "time": "2018-09-29T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1029.4,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-30T00:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1027.1,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-30T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1027.9,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-10-01T00:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1030.8,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-10-01T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1033,
+        "humidityPER": 71
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 2.732218,
+      "latitude": 52.556811,
+      "altitude": 0
+    },
+    "weather": [
+      {
+        "time": "2018-09-22T03:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1016.2,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T04:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1016.7,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1016.9,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T06:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1017.1,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T07:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1017.5,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T08:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1017.7,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T09:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1018.1,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-22T10:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1018.3,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T11:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1018.4,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1018.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T13:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1017.9,
+        "humidityPER": 60
+      },
+      {
+        "time": "2018-09-22T14:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1017.8,
+        "humidityPER": 57
+      },
+      {
+        "time": "2018-09-22T15:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1017.4,
+        "humidityPER": 60
+      },
+      {
+        "time": "2018-09-22T16:00:00Z",
+        "tempC": 15.4,
+        "pressureHPA": 1016.9,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T17:00:00Z",
+        "tempC": 15,
+        "pressureHPA": 1016.7,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T18:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1016.6,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T19:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1016.4,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-22T20:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1016,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T21:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1015.6,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T22:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1015.2,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T23:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1014.5,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T00:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013.7,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T01:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T02:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.3,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T03:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-23T04:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1011.8,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1011.8,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T06:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.1,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-23T07:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.3,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T08:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1012.7,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-23T09:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T10:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.1,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T11:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.2,
+        "humidityPER": 80
+      },
+      {
+        "time": "2018-09-23T12:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1013.7,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T13:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013.9,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T14:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1014.3,
+        "humidityPER": 83
+      },
+      {
+        "time": "2018-09-23T15:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1015.5,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T16:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1016.8,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-23T17:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1018.7,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-23T18:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1020.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-23T21:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1025,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T22:00:00Z",
+        "tempC": 12.8,
+        "pressureHPA": 1026.3,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T23:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1027.3,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-24T00:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1028.3,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-24T03:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1030.1,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T06:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1031.7,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T09:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1034.2,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-24T12:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1036,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-24T18:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1036.6,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-25T00:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1037.9,
+        "humidityPER": 60
+      },
+      {
+        "time": "2018-09-25T06:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1038.3,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-25T12:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1039.5,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-25T18:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1037.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-26T00:00:00Z",
+        "tempC": 15,
+        "pressureHPA": 1036.5,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T06:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1035.2,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-26T12:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1034.8,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-26T18:00:00Z",
+        "tempC": 16.2,
+        "pressureHPA": 1032,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-27T00:00:00Z",
+        "tempC": 16.2,
+        "pressureHPA": 1030.4,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-27T06:00:00Z",
+        "tempC": 15,
+        "pressureHPA": 1027.8,
+        "humidityPER": 80
+      },
+      {
+        "time": "2018-09-27T12:00:00Z",
+        "tempC": 15.4,
+        "pressureHPA": 1026.3,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-27T18:00:00Z",
+        "tempC": 16.5,
+        "pressureHPA": 1025.2,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-28T00:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1026.8,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-28T12:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1029.9,
+        "humidityPER": 56
+      },
+      {
+        "time": "2018-09-29T00:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1029.3,
+        "humidityPER": 59
+      },
+      {
+        "time": "2018-09-29T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1029.4,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-30T00:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1027.1,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-30T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1027.8,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-10-01T00:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1030.7,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-10-01T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1033,
+        "humidityPER": 71
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 2.812633,
+      "latitude": 52.565998,
+      "altitude": 0
+    },
+    "weather": [
+      {
+        "time": "2018-09-22T03:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1016.1,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T04:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1016.6,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T05:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1016.9,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T06:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1017,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T07:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1017.5,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T08:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1017.7,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T09:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1018.1,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-22T10:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1018.3,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T11:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1018.3,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1018.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T13:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1017.9,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-22T14:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1017.8,
+        "humidityPER": 57
+      },
+      {
+        "time": "2018-09-22T15:00:00Z",
+        "tempC": 15.2,
+        "pressureHPA": 1017.4,
+        "humidityPER": 59
+      },
+      {
+        "time": "2018-09-22T16:00:00Z",
+        "tempC": 15.4,
+        "pressureHPA": 1016.9,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T17:00:00Z",
+        "tempC": 15.1,
+        "pressureHPA": 1016.6,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T18:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1016.6,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T19:00:00Z",
+        "tempC": 14.3,
+        "pressureHPA": 1016.4,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-22T20:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1016,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T21:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1015.6,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T22:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1015.2,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-22T23:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1014.5,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T00:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013.7,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T01:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T02:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1012.4,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T03:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-23T04:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1011.8,
+        "humidityPER": 77
+      },
+      {
+        "time": "2018-09-23T05:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1011.8,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T06:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.1,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-23T07:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.3,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-23T08:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1012.7,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-23T09:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1013,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T10:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1013.1,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T11:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013.1,
+        "humidityPER": 81
+      },
+      {
+        "time": "2018-09-23T12:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1013.6,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T13:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013.9,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T14:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1014.2,
+        "humidityPER": 84
+      },
+      {
+        "time": "2018-09-23T15:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1015.5,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-23T16:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1016.7,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-23T17:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1018.6,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-23T18:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1020.2,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-23T21:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1024.9,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T22:00:00Z",
+        "tempC": 12.6,
+        "pressureHPA": 1026.3,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-23T23:00:00Z",
+        "tempC": 13,
+        "pressureHPA": 1027.2,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-24T00:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1028.2,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-24T03:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1030,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-24T06:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1031.7,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T09:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1034.1,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-24T12:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1035.9,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-24T18:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1036.5,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-25T00:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1037.9,
+        "humidityPER": 59
+      },
+      {
+        "time": "2018-09-25T06:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1038.2,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-25T12:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1039.4,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-25T18:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1037.3,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-26T00:00:00Z",
+        "tempC": 15.1,
+        "pressureHPA": 1036.5,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T06:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1035.1,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T12:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1034.8,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-26T18:00:00Z",
+        "tempC": 16.2,
+        "pressureHPA": 1032,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-27T00:00:00Z",
+        "tempC": 16.3,
+        "pressureHPA": 1030.4,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-27T06:00:00Z",
+        "tempC": 15.1,
+        "pressureHPA": 1027.8,
+        "humidityPER": 80
+      },
+      {
+        "time": "2018-09-27T12:00:00Z",
+        "tempC": 15.4,
+        "pressureHPA": 1026.3,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-27T18:00:00Z",
+        "tempC": 16.5,
+        "pressureHPA": 1025.2,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-28T00:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1026.8,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-28T12:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1029.9,
+        "humidityPER": 56
+      },
+      {
+        "time": "2018-09-29T00:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1029.3,
+        "humidityPER": 59
+      },
+      {
+        "time": "2018-09-29T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1029.4,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-30T00:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1027.1,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-30T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1027.8,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-10-01T00:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1030.7,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-10-01T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1032.9,
+        "humidityPER": 70
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 2.893083,
+      "latitude": 52.575126,
+      "altitude": 0
+    },
+    "weather": [
+      {
+        "time": "2018-09-22T03:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1016.1,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T04:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1016.6,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T05:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1016.8,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T06:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1017,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T07:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1017.4,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T08:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1017.7,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T09:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1018,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-22T10:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1018.3,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T11:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1018.3,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1018.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T13:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1017.9,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-22T14:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1017.9,
+        "humidityPER": 57
+      },
+      {
+        "time": "2018-09-22T15:00:00Z",
+        "tempC": 15.2,
+        "pressureHPA": 1017.4,
+        "humidityPER": 59
+      },
+      {
+        "time": "2018-09-22T16:00:00Z",
+        "tempC": 15.4,
+        "pressureHPA": 1016.9,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-22T17:00:00Z",
+        "tempC": 15.1,
+        "pressureHPA": 1016.6,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T18:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1016.6,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T19:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1016.4,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-22T20:00:00Z",
+        "tempC": 14.1,
+        "pressureHPA": 1016,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-22T21:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1015.7,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T22:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1015.2,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T23:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1014.5,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T00:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013.8,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T01:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T02:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012.4,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T03:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-23T04:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1011.8,
+        "humidityPER": 77
+      },
+      {
+        "time": "2018-09-23T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1011.8,
+        "humidityPER": 78
+      },
+      {
+        "time": "2018-09-23T06:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-23T07:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.3,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-23T08:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1012.7,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-23T09:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1013,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T10:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1013.1,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T11:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013,
+        "humidityPER": 80
+      },
+      {
+        "time": "2018-09-23T12:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1013.5,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-23T13:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013.8,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T14:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1014.1,
+        "humidityPER": 83
+      },
+      {
+        "time": "2018-09-23T15:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1015.5,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T16:00:00Z",
+        "tempC": 14.5,
+        "pressureHPA": 1016.6,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-23T17:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1018.5,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-23T18:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1020.1,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-23T21:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1024.8,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-23T22:00:00Z",
+        "tempC": 12.6,
+        "pressureHPA": 1026.2,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T23:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1027.1,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-24T00:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1028.1,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-24T03:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1029.9,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-24T06:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1031.6,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T09:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1034,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-24T12:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1035.8,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-24T18:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1036.4,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-25T00:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1037.8,
+        "humidityPER": 59
+      },
+      {
+        "time": "2018-09-25T06:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1038.2,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-25T12:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1039.4,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-25T18:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1037.3,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-26T00:00:00Z",
+        "tempC": 15.1,
+        "pressureHPA": 1036.4,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T06:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1035.1,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-26T12:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1034.8,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-26T18:00:00Z",
+        "tempC": 16.2,
+        "pressureHPA": 1032,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-27T00:00:00Z",
+        "tempC": 16.3,
+        "pressureHPA": 1030.4,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-27T06:00:00Z",
+        "tempC": 15.2,
+        "pressureHPA": 1027.8,
+        "humidityPER": 80
+      },
+      {
+        "time": "2018-09-27T12:00:00Z",
+        "tempC": 15.5,
+        "pressureHPA": 1026.3,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-27T18:00:00Z",
+        "tempC": 16.4,
+        "pressureHPA": 1025.1,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-28T00:00:00Z",
+        "tempC": 15,
+        "pressureHPA": 1026.7,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-28T12:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1029.8,
+        "humidityPER": 57
+      },
+      {
+        "time": "2018-09-29T00:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1029.3,
+        "humidityPER": 59
+      },
+      {
+        "time": "2018-09-29T12:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1029.4,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-30T00:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1027.1,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-30T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1027.8,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-10-01T00:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1030.6,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-10-01T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1032.8,
+        "humidityPER": 70
+      }
+    ]
+  },
+  {
+    "location": {
+      "longitude": 2.973569,
+      "latitude": 52.584194,
+      "altitude": 0
+    },
+    "weather": [
+      {
+        "time": "2018-09-22T03:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1016,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T04:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1016.5,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-22T05:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1016.8,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T06:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1016.9,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T07:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1017.4,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T08:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1017.6,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T09:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1018,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-22T10:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1018.2,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-22T11:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1018.3,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1018.3,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-22T13:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1017.9,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-22T14:00:00Z",
+        "tempC": 14.8,
+        "pressureHPA": 1017.9,
+        "humidityPER": 57
+      },
+      {
+        "time": "2018-09-22T15:00:00Z",
+        "tempC": 15.1,
+        "pressureHPA": 1017.4,
+        "humidityPER": 58
+      },
+      {
+        "time": "2018-09-22T16:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1017,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-22T17:00:00Z",
+        "tempC": 15.2,
+        "pressureHPA": 1016.7,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T18:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1016.6,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-22T19:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1016.4,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-22T20:00:00Z",
+        "tempC": 14.2,
+        "pressureHPA": 1016.1,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-22T21:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1015.7,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T22:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1015.2,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-22T23:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1014.6,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T00:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013.8,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T01:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-23T02:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012.4,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T03:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-23T04:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1011.7,
+        "humidityPER": 77
+      },
+      {
+        "time": "2018-09-23T05:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1011.8,
+        "humidityPER": 77
+      },
+      {
+        "time": "2018-09-23T06:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1012,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-23T07:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1012.2,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-23T08:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1012.6,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-23T09:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1012.9,
+        "humidityPER": 71
+      },
+      {
+        "time": "2018-09-23T10:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1013,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T11:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1013,
+        "humidityPER": 80
+      },
+      {
+        "time": "2018-09-23T12:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1013.5,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-23T13:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1013.7,
+        "humidityPER": 68
+      },
+      {
+        "time": "2018-09-23T14:00:00Z",
+        "tempC": 13.9,
+        "pressureHPA": 1014,
+        "humidityPER": 83
+      },
+      {
+        "time": "2018-09-23T15:00:00Z",
+        "tempC": 12.5,
+        "pressureHPA": 1015.4,
+        "humidityPER": 74
+      },
+      {
+        "time": "2018-09-23T16:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1016.5,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-23T17:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1018.3,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-23T18:00:00Z",
+        "tempC": 14.4,
+        "pressureHPA": 1020,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-23T21:00:00Z",
+        "tempC": 13.4,
+        "pressureHPA": 1024.6,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-23T22:00:00Z",
+        "tempC": 12.5,
+        "pressureHPA": 1026.1,
+        "humidityPER": 75
+      },
+      {
+        "time": "2018-09-23T23:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1027,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-24T00:00:00Z",
+        "tempC": 13.2,
+        "pressureHPA": 1028,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-24T03:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1029.8,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-24T06:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1031.5,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-24T09:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1033.9,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-24T12:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1035.7,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-24T18:00:00Z",
+        "tempC": 13.1,
+        "pressureHPA": 1036.4,
+        "humidityPER": 63
+      },
+      {
+        "time": "2018-09-25T00:00:00Z",
+        "tempC": 13.5,
+        "pressureHPA": 1037.8,
+        "humidityPER": 59
+      },
+      {
+        "time": "2018-09-25T06:00:00Z",
+        "tempC": 13.3,
+        "pressureHPA": 1038.2,
+        "humidityPER": 64
+      },
+      {
+        "time": "2018-09-25T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1039.3,
+        "humidityPER": 62
+      },
+      {
+        "time": "2018-09-25T18:00:00Z",
+        "tempC": 13.8,
+        "pressureHPA": 1037.3,
+        "humidityPER": 65
+      },
+      {
+        "time": "2018-09-26T00:00:00Z",
+        "tempC": 15.1,
+        "pressureHPA": 1036.4,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-26T06:00:00Z",
+        "tempC": 14.6,
+        "pressureHPA": 1035.1,
+        "humidityPER": 61
+      },
+      {
+        "time": "2018-09-26T12:00:00Z",
+        "tempC": 14.9,
+        "pressureHPA": 1034.8,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-09-26T18:00:00Z",
+        "tempC": 16.1,
+        "pressureHPA": 1032,
+        "humidityPER": 72
+      },
+      {
+        "time": "2018-09-27T00:00:00Z",
+        "tempC": 16.3,
+        "pressureHPA": 1030.4,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-09-27T06:00:00Z",
+        "tempC": 15.3,
+        "pressureHPA": 1027.7,
+        "humidityPER": 79
+      },
+      {
+        "time": "2018-09-27T12:00:00Z",
+        "tempC": 15.5,
+        "pressureHPA": 1026.3,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-27T18:00:00Z",
+        "tempC": 16.4,
+        "pressureHPA": 1025.1,
+        "humidityPER": 69
+      },
+      {
+        "time": "2018-09-28T00:00:00Z",
+        "tempC": 15,
+        "pressureHPA": 1026.7,
+        "humidityPER": 73
+      },
+      {
+        "time": "2018-09-28T12:00:00Z",
+        "tempC": 13.6,
+        "pressureHPA": 1029.8,
+        "humidityPER": 58
+      },
+      {
+        "time": "2018-09-29T00:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1029.3,
+        "humidityPER": 60
+      },
+      {
+        "time": "2018-09-29T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1029.4,
+        "humidityPER": 67
+      },
+      {
+        "time": "2018-09-30T00:00:00Z",
+        "tempC": 14.7,
+        "pressureHPA": 1027.1,
+        "humidityPER": 70
+      },
+      {
+        "time": "2018-09-30T12:00:00Z",
+        "tempC": 14,
+        "pressureHPA": 1027.7,
+        "humidityPER": 76
+      },
+      {
+        "time": "2018-10-01T00:00:00Z",
+        "tempC": 13.7,
+        "pressureHPA": 1030.5,
+        "humidityPER": 66
+      },
+      {
+        "time": "2018-10-01T12:00:00Z",
+        "tempC": 12.9,
+        "pressureHPA": 1032.8,
+        "humidityPER": 69
+      }
+    ]
+  }
+]
